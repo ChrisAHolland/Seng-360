@@ -1,6 +1,6 @@
 '''
 Chris Holland
-V00876844
+Seng 360, Fall 2018
 '''
 
 from Crypto.Cipher import AES
